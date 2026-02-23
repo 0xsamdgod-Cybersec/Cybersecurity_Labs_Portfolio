@@ -1,10 +1,10 @@
-# Lab: Live Web Reconnaissance (Dirb)
+## Lab: Live Web Reconnaissance (Dirb)
 Category: Offensive Security  
 Target: http://testphp.vulnweb.com  
 Tool: Dirb (Kali Linux Terminal)
 
 ## Lab Objective
-To use a dictionary-based brute force tool to discover hidden directories on a live web server and evaluate the security risk of exposed paths.
+To use a dictionary based brute force tool to discover hidden directories on a live web server and evaluate the security risk of exposed paths.
 
 ## Execution
 1. Opened the "Terminal Emulator" in Kali Linux.
